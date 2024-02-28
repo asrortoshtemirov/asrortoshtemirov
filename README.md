@@ -9,3 +9,4 @@ I'm Frontend Developer
 <code><img src="https://avatars.githubusercontent.com/u/14283866?v=4&s=400" width="30px"></code>
 <code><img src="https://tl.vhv.rs/dpng/s/35-358510_javascript-logo-hd-png-download.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="30px"></code>
+
